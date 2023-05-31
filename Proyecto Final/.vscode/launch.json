@@ -10,7 +10,7 @@
             "args": "",
             "envFile": "${workspaceFolder}/.env",
             "env": {
-                "db_password": "heysomoslosmagazos"
+                "db_password": "1212"
             }
         },
         {
@@ -23,7 +23,7 @@
             "args": "",
             "envFile": "${workspaceFolder}/.env",
             "env": {
-                "db_password": "heysomoslosmagazos"
+                "db_password": "1212"
             }
         },
         {
@@ -36,7 +36,7 @@
             "args": "",
             "envFile": "${workspaceFolder}/.env",
             "env": {
-                "db_password": "heysomoslosmagazos"
+                "db_password": "1212"
             }
         },
         {

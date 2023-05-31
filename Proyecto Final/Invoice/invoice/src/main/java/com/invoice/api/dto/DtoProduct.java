@@ -6,11 +6,11 @@ package com.invoice.api.dto;
  */
 public class DtoProduct {
 
-    private String gtin;
+    private String gtin; // Atributo para almacenar el código GTIN del producto
+	private Integer stock; // Atributo para almacenar la cantidad de stock disponible 
+	private Double price; // Atributo para almacenar el precio del producto
 
-	private Integer stock;
-
-	private Double price;
+	//Métodos getters y setters de los atributos
 
     public String getGtin() {
 		return gtin;
